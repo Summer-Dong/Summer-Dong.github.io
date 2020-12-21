@@ -7,12 +7,12 @@ category: Tools
 # Show TypeScript error in IDE
 
 * VSCode: set `"typescript.validate.enable": false,` in `settings.json` file to show typescript built-in errors. Below is the example in VSCode:
-  ![ts error in VSCode](public/img/Screenshot_20201221195519.png)
+  ![ts error in VSCode](https://summer-dong.github.io/public/img/Screenshot_20201221195519.png)
   
 * WebStorm: File -> Settings -> Languages & Franmeworks -> TypeScript
-  ![ts error is VSCode](public/img/Screenshot_20201221195519.png)
+  ![ts error is VSCode](https://summer-dong.github.io/public/img/Screenshot_20201221195519.png)
   Below is the example in WebStorm:
-  ![ts error in WebStorm]()
+  ![ts error in WebStorm](https://summer-dong.github.io/public/img/Screenshot_20201221200301.png)
 
 ### Reference:
 
