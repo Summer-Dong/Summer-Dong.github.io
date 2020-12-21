@@ -10,7 +10,7 @@ category: Tools
   ![ts error in VSCode](https://summer-dong.github.io/public/img/Screenshot_20201221195519.png)
   
 * WebStorm: File -> Settings -> Languages & Franmeworks -> TypeScript
-  ![ts error is VSCode](https://summer-dong.github.io/public/img/Screenshot_20201221195519.png)
+  ![ts error is VSCode](https://summer-dong.github.io/public/img/Screenshot_20201221200024.png)
   Below is the example in WebStorm:
   ![ts error in WebStorm](https://summer-dong.github.io/public/img/Screenshot_20201221200301.png)
 
