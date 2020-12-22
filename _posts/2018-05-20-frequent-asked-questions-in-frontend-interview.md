@@ -4,7 +4,6 @@ title: Frequent asked questions in front end interview
 date: 2018-05-20 19:20:23 +0900
 category: general
 ---
-# 前端面试题总结
 
 * [HTML相关](#HTML相关)
     * [html5知识点](#html5知识点)
