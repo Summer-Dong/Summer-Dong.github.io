@@ -4,6 +4,7 @@ title: Sticky element while scrolling the page in React
 date: 2022-10-11 19:20:23 +0900
 category: javascript
 ---
+### 使用场景：页面中存在某一元素，当滑动滚轴使得此元素不能被看到时，想使这个元素一直被固定在页面顶部，而滚动滚轴使得此元素原来所在位置又出现时，使此元素回归原来位置
 ```tsx
 import React, { useEffect, useRef, useState } from 'react'
 import styled from 'styled-components'
@@ -42,3 +43,5 @@ export default ({ children, classes }): JSX.Element => {
 }
 
 ```
+## Example:
+![sticky element](https://summer-dong.github.io/public/img/sticky-element.webm)
