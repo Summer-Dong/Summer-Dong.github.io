@@ -44,4 +44,4 @@ export default ({ children, classes }): JSX.Element => {
 
 ```
 ## Example:
-![sticky element](https://summer-dong.github.io/public/img/sticky-element.webm)
+<iframe name="sticky element" src="https://summer-dong.github.io/public/img/sticky-element.webm" marginwidth="1px" marginheight="20px" width=100% height="80px" frameborder=1 　scrolling="yes">
